@@ -1,0 +1,8 @@
+.subRedditContainer {
+    height: 70vh;
+    width: 20vw;
+    left: 60%;
+    border: 2px solid black;
+    grid-column: 3 /span 1;
+    grid-row: 2 / span 1;
+}
